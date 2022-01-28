@@ -27,6 +27,8 @@ public class GeoServiceImpl implements GeoService {
         return null;
     }
 
+
+
     /**
      * Метод определяет локацию по координатам
      */
